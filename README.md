@@ -1,4 +1,4 @@
-# Malicious File Prediction - Machine Learning – Final Project
+# Detecting Malicious Files with Machine Learning
 
 ## Overview
 
