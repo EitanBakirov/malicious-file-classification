@@ -4,7 +4,7 @@
 
 This project aims to solve a binary classification problem using static file analysis. The goal is to classify files as either malicious or non-malicious based on a set of features, some of which are known and others are anonymous. The project involves exploratory data analysis, data preprocessing, machine learning model building, and evaluation.
 
-For a more in depth explanation of all our proccess of work you can access "report_english.pdf"/ "report_hebrew.pdf" or the notebook itself "notebook.ipynb".
+For a more in depth explanation of all our proccess of work you can access "report_english.pdf"/ "report_hebrew.pdf" or the notebook itself [notebook.ipynb](https://github.com/EitanBakirov/malicious-file-classification/blob/main/notebook.ipynb).
 
 ## Table of Contents
 
