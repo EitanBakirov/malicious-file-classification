@@ -6,18 +6,6 @@ This project aims to solve a binary classification problem using static file ana
 
 For a more in depth explanation of all our proccess of work you can access "report_english.pdf"/ "report_hebrew.pdf" or the notebook itself [notebook.ipynb](https://github.com/EitanBakirov/malicious-file-classification/blob/main/notebook.ipynb).
 
-## Table of Contents
-
-- [Data Science – Final Project](#data-science--final-project)
-  - [Overview](#overview)
-  - [Table of Contents](#table-of-contents)
-  - [Project Description](#project-description)
-  - [Data](#data)
-  - [Methodology](#methodology)
-  - [Results](#results)
-  - [Usage](#usage)
-  - [Authors](#authors)
-  - [Contact](#contact)
 
 ## Project Description
 
